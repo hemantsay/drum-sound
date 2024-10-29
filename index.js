@@ -29,7 +29,6 @@ for (var i = 0; i < noofButtons; i++) {
          buttonAnimation(buttoninnerHtml);
 
     })
-}
 
 function makeSound(key) {
 
