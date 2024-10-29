@@ -12,10 +12,11 @@ h1 {
   
 
 }
-.drum:hover {
+.drumm {
   
   transform: scale(1.05) !important; /* Slightly larger */
 }
+
 
 footer {
   color: #DBEDF3;
@@ -94,3 +95,11 @@ footer {
   background-color: white;
   
 }
+
+.keyboard{
+  padding-bottom: 100px;
+  color: white;
+  font-family: 'Arvo', cursive;
+  
+}
+
